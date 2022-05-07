@@ -1,2 +1,1 @@
-# UserName-and-Age-Populater-Mini-Practice-Project-
-
+# UserName-and-Age-Populater
